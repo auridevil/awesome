@@ -436,6 +436,7 @@
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
+- [Climbing Movies](https://github.com/auridevil/awesome_climbing)
 
 ## Databases
 
